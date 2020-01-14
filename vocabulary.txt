@@ -1,0 +1,29 @@
+﻿動作  - motion どうさ
+操作　- operation そうさ
+選択  - selected せんたく
+押下　- press おうか
+反映  - reflection はんえい
+名称  - name めいしょう
+件数  - number of things けんすう
+依頼　- request いらい
+提供　- offer ていきょう
+印刷  - print いんさつ
+任意　- any にんい
+戻る　- return もどる
+登録　- insert とうろく
+指定　- specification,assignment してい
+条件　- conditions じょうけん
+左記　- left さき
+抽出する　- extract ちゅうしゅつ
+無題　- むだい
+対応 - Correspondence たいおう
+利用 - Use りよう
+既存　- Realize きぞん
+実現する - Existing　じつげん
+命名ルール　-　control naming rule めいめい
+配置　-  Arrangement　はいち
+実行  -　execution じっこう 
+
+
+
+
